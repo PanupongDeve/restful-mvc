@@ -1,0 +1,17 @@
+package config
+
+var PORT = "8081"
+
+var DB_PROVIDER = "postgres"
+
+var DB_HOST = ""
+
+var DB_PORT = ""
+
+var DB_USER = ""
+
+var DB_PASSWORD = ""
+
+var DB_NAME = ""
+
+var SSL_MODE = "disable"
